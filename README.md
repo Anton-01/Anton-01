@@ -1,26 +1,57 @@
-<h1 align="center">Hi 👋, I'm Antonio Ortiz Avila</h1>
-<h3 align="center">Passionate software developer, lover of understanding, learning and discovering the beauty of life</h3>
+# Hi there, I'm Antón Ortiz Avila 👋 
+### 👨‍💻 Software Engineer | Technical Lead | Creator of Antón Logic
 
-- 🔭 I’m currently working on **MyScie ERP**
+I am a Senior Consultant and Technical Lead specializing in the architecture, development, and implementation of high-availability systems. With a strong focus on the FinTech sector, I build robust, scalable solutions and lead high-performing development teams to deliver enterprise-level software.
 
-- 🌱 I’m currently learning **Java, Python, DevOps, Docker, Design Patterns, GO**
+---
 
-- 👯 I’m looking to collaborate on [Go2LGBT](https://go2lgbt.com/)
+### 🚀 About Me
 
-- 🤝 I’m looking for help with [Health Medical Destination](https://healthmedicaldestination.com/morelia)
+* 🏢 Currently working as a **Senior Consultant and Technical Lead** at Axity.
+* 👨‍🏫 Leading a dedicated technical team of 5 developers, ensuring code quality, agile delivery, and scalable architecture.
+* 💳 Experienced in FinTech, having architected and deployed high-availability service payment systems (like Walmart service payments) handling complex commission traceability.
+* 🛠️ Background includes software engineering roles at Innovia Films and KIRITEK, driving robust solutions across various business domains.
+* 🎓 Holding a degree in Information Technology and Communication Engineering (Specialty in Computer Systems) from the Universidad Tecnológica de Morelia (2019).
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anton-01](https://github.com/Anton-01)
+---
 
-- 📫 How to reach me **antonio.ortiz.avila@gmail.com**
+### 💻 Technical Arsenal
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/antonio-ortiz-avila/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/antonio-ortiz-avila/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/antonio.ortizav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/antonio.ortizav" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/antonioortiza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/antonioortiza/" height="30" width="40" /></a>
-</p>
+**Backend Development:**
+* Java (Spring Boot, Spring Batch, Spring Security)
+* PHP (Laravel)
+* Legacy System Migration & Modernization (e.g., Java 8 to modern cloud infrastructures)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+**Frontend Development:**
+* Angular 
+* Vue.js
+* React
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anton-01&show_icons=true&locale=en&layout=compact" alt="anton-01" /></p>
+**Cloud, Database & DevOps:**
+* **GCP:** Cloud Run, Cloud Spanner, VPC
+* **DigitalOcean:** App Platform, Droplets
+* **Databases:** PostgreSQL (including GCP Spanner interfaces), Oracle
+* **Containerization & Infra:** Docker
+* **OS & Security:** macOS, Parrot OS (Virtualized for security testing)
+
+---
+
+### 🏗️ What I'm Currently Working On
+
+* 🍞 **Cronos Bakery System:** Developing a comprehensive SaaS platform tailored for specialized bakery management, utilizing custom auto-incremental database architecture.
+* ☁️ **Enterprise Cloud Migrations:** Overseeing the complex migration of legacy Java 8 systems from Oracle databases to Google Cloud Spanner with PostgreSQL interfaces.
+* 🌐 **Brand Development:** Building my personal tech brand, **Antón Logic**, focusing on freelance software development services.
+* 🔐 **Platform Administration:** Managing server administration and maintenance for web platforms like Maosa Prime.
+
+---
+
+### 📜 Certifications
+* 🥇 Scrum Fundamentals Certified
+* 🥇 Scrum for Operations and DevOps Fundamentals Certified
+
+---
+
+### 📫 Connect with Me
+
+* **Brand:** Antón Logic
+* **Let's collaborate on:** High-availability architectures, cloud migrations, and scalable SaaS platforms.
